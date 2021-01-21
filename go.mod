@@ -2,4 +2,4 @@ module github.com/dengpju/higo-redismq
 
 go 1.14
 
-require github.com/dengpju/higo-redis v1.0.3 // indirect
+require github.com/dengpju/higo-redis v1.0.4 // indirect
